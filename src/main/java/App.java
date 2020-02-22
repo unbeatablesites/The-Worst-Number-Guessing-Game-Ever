@@ -15,11 +15,12 @@ public class App {
         Scanner scan = new Scanner(System.in);
 
         int userInput = scan.nextInt();
+        int secretNumber = 4;
 
         if(userInput == 4){
             System.out.println("LOL!!! U GOT IT!  I CANT BELEIVE U GESSED IT WAS "+userInput+"!");
-        }else if(userInput != 4){
-            System.out.println("");
+        }else{
+            System.out.println("W00T!  U SUX0R!!!  I PWN J00!!!  IT WAS "+userInput+"!\n");
         }
 
 
