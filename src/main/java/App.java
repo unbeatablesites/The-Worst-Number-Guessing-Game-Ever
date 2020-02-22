@@ -18,9 +18,9 @@ public class App {
         int secretNumber = 4;
 
         if(userInput == 4){
-            System.out.println("LOL!!! U GOT IT!  I CANT BELEIVE U GESSED IT WAS "+userInput+"!");
+            System.out.println("LOL!!! U GOT IT!  I CANT BELEIVE U GESSED IT WAS "+secretNumber+"!");
         }else{
-            System.out.println("W00T!  U SUX0R!!!  I PWN J00!!!  IT WAS "+userInput+"!\n");
+            System.out.println("W00T!  U SUX0R!!!  I PWN J00!!!  IT WAS "+secretNumber+"!\n");
         }
 
 
