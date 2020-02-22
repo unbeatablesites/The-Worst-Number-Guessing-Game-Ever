@@ -3,11 +3,11 @@ import java.util.Scanner;
 public class App {
 
     public static void main(String[] args) {
-
+        doLogic();
     }
 
 
-    public static void addLogic(){
+    public static void doLogic(){
 
         System.out.println("THE WORST NUMBER GUESSING GAME EVER!!!!!!!!!\n");
         System.out.println("I\"M THIKING OF A NUMBER BETWEEN 1-10.  TRY 2 GUESS IT!");
