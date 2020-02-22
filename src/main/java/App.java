@@ -18,7 +18,9 @@ public class App {
 
         if(userInput == 4){
             System.out.println("LOL!!! U GOT IT!  I CANT BELEIVE U GESSED IT WAS "+userInput+"!");
-        }else if()
+        }else if(userInput != 4){
+            System.out.println("");
+        }
 
 
 
