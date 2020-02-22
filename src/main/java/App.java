@@ -14,6 +14,12 @@ public class App {
 
         Scanner scan = new Scanner(System.in);
 
+        int userInput = scan.nextInt();
+
+        if(userInput == 4){
+            System.out.println("LOL!!! U GOT IT!  I CANT BELEIVE U GESSED IT WAS "+userInput+"!");
+        }else if()
+
 
 
 
