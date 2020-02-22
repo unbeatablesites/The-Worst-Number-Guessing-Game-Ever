@@ -22,11 +22,6 @@ public class App {
         }else{
             System.out.println("W00T!  U SUX0R!!!  I PWN J00!!!  IT WAS "+secretNumber+"!\n");
         }
-
-
-
-
-
     }
 
 }
